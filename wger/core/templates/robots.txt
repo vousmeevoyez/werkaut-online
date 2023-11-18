@@ -1,0 +1,2 @@
+{% for lang in languages %}Sitemap: http://werkaut.online/{{lang.0}}/sitemap.xml
+{% endfor %}
